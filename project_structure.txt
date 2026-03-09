@@ -1,0 +1,14 @@
+trade-opportunities-api
+│
+├── main.py
+├── auth.py
+├── ai_analyzer.py
+├── data_collector.py
+├── report_generator.py
+├── rate_limiter.py
+│
+├── requirements.txt
+├── README.md
+├── .gitignore
+│
+└── reports/
